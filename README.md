@@ -24,22 +24,31 @@
 
 ### 🚀 My Learning Flow
 
-```mermaid
-flowchart TD
-    Start{{Python Basics}} --> DA[Data Analysis]
-    DA --> SQL[SQL & Databases]
-    SQL --> EDA[Exploratory Data Analysis]
-    EDA --> BI[Power BI Dashboards]
-    BI --> ML[Machine Learning Concepts]
-    ML --> Projects[Real-World Projects]
-🧠 What I Focus On
-Data cleaning, ETL, storytelling, dashboarding
+## 🖤 Dark Mode — My Tech Story
 
-Python for analysis & simple ML
+> Learning → Building → Shipping Real-World Impact
 
-Power BI for interactive reports
+### 🚀 My Learning Flow (stable, no Mermaid)
+- **Python Basics**  
+  ↓
+- **Data Analysis**  
+  ↓
+- **SQL & Databases**  
+  ↓
+- **Exploratory Data Analysis (EDA)**  
+  ↓
+- **Power BI Dashboards**  
+  ↓
+- **Machine Learning Concepts**  
+  ↓
+- **Real-World Projects**
 
-SQL for structured querying
+### 🧠 What I Focus On
+- Data cleaning, ETL, storytelling, dashboarding  
+- Python for analysis & simple ML  
+- Power BI for interactive reports  
+- SQL for structured querying
+
 
 🛠 Tech Stack — Dark Mode Friendly
 <div align="center"> <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&style=flat-square" /> <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&style=flat-square" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&style=flat-square" /> <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&style=flat-square" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square" /> <img src="https://img.shields.io/badge/Matplotlib-013243?style=flat-square" /> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square" /> </div>
