@@ -1,96 +1,101 @@
-<!-- start copy --> <!-- 🚀 Modern Animated Header | Data Analyst & Data Science Enthusiast --> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00F5FF&vCenter=true&width=900&lines=Data+Analyst+%7C+Python+Developer;Power+BI+%7C+SQL+%7C+Excel;Aspiring+Data+Scientist;Welcome+to+My+Tech+Space!" alt="typing" /> </p> <h1 align="center">Hi, I'm Naresh Singh Rawat! 👋</h1> <p align="center" style="font-size:1.05em"> <b>📊 Data Analyst</b> &nbsp;|&nbsp; <b>🤖 Data Science Enthusiast</b> &nbsp;|&nbsp; <b>🐍 Python • Power BI • SQL</b> </p>
+<!-- 🌑 Dark Aesthetic | Data Analyst & Data Science Enthusiast -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=9BE7FF&vCenter=true&width=900&lines=Data+Analyst+%7C+Python+%7C+Power+BI;SQL+%7C+Excel;Aspiring+Data+Scientist" alt="typing" />
+</p>
+
+<h1 align="center">Hi, I'm Naresh Singh Rawat 👋</h1>
+
+<p align="center">
+  <sub style="font-size:1.05em">📊 <b>Data Analyst</b> &nbsp;•&nbsp; 🤖 <b>Data Science Enthusiast</b> &nbsp;•&nbsp; 🐍 <b>Python • Power BI • SQL</b></sub>
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-6EE7B7?style=for-the-badge&logo=github" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Location-Rajasthan-8B5CF6?style=for-the-badge&logo=map" alt="Location" />
+  <img src="https://img.shields.io/badge/Student-B.Tech%20(AI%20%26%20DS)-60A5FA?style=for-the-badge" alt="Student" />
+</div>
+
+---
+
+## 🖤 Dark Mode — My Tech Story
+
+> Learning → Building → Ship
+
 ```mermaid
 flowchart TD
-    Start{{Python Basics}} --> DA[Data Analysis]
-    DA --> SQL[SQL & Databases]
-    SQL --> EDA[Exploratory Data Analysis]
-    EDA --> BI[Power BI Dashboards]
-    BI --> ML[Machine Learning Concepts]
-    ML --> Projects[Real-World Projects]
+  style Start fill:#0b1221,stroke:#111827,color:#9BE7FF
+  style DA fill:#0b1221,stroke:#111827,color:#9BE7FF
+  style SQL fill:#0b1221,stroke:#111827,color:#9BE7FF
+  style EDA fill:#0b1221,stroke:#111827,color:#9BE7FF
+  style BI fill:#0b1221,stroke:#111827,color:#9BE7FF
+  style ML fill:#0b1221,stroke:#111827,color:#9BE7FF
+  Start{{"Python Basics"}} --> DA["Data Analysis"]
+  DA --> SQL["SQL & Databases"]
+  SQL --> EDA["Exploratory Data Analysis"]
+  EDA --> BI["Power BI Dashboards"]
+  BI --> ML["ML Concepts & Pipelines"]
+  ML --> Projects["Real-World Projects"]
+Focus: Data cleaning, ETL, visual storytelling, and actionable dashboards.
 
+Tools I use daily: Python, Pandas, Power BI, Excel, SQL.
 
+Approach: Simple pipelines, repeatable analyses, and clear visual insights.
 
-Data Analytics Focused: Cleaning, transforming, and analyzing data for business insights.
-
-Power BI Lover: ETL, DAX, Modeling & Clean Dashboards.
-
-Python Explorer: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn (ML basics).
-
-Problem Solver: Turning complex problems into clean solutions.
-
-Curiosity Driven: If there's data → I want insights.
-
-🛠 Tech Stack
-<div align="center"> <!-- Languages --> <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" alt="Python" /> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/DAX-512BD4?logo=power-bi&logoColor=white" alt="DAX" /> <!-- Libraries --> <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Matplotlib-013243?logo=matplotlib&logoColor=white" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white" alt="Seaborn" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn" /> <!-- Tools --> <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" alt="Excel" /> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub" /> </div>
-💼 Experience
-📍 Ducat, Gurugram — Data Analyst Trainee
-
+🛠 Tech Stack — Dark Palette
+<div align="center"> <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&style=flat-square" alt="SQL" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&style=flat-square" alt="Power BI" /> <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&style=flat-square" alt="Excel" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square" alt="Pandas" /> <img src="https://img.shields.io/badge/Matplotlib-013243?style=flat-square" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square" alt="scikit-learn" /> </div>
+💼 Experience (Resume-synced)
+Ducat, Gurugram — Data Analyst Trainee
 June 2025 – Sept 2025
 
-Hands-on training in Data Analytics.
+Hands-on data analytics training: cleaning, ETL, visualization & analysis.
 
-Data cleaning, transformation, and visualization.
+Built analytic solutions using Python, Excel & Power BI.
 
-Built analytics solutions using Python, Excel & Power BI.
+Naresh Resume DA
 
-Collaborative teamwork on real datasets.
 
-📍 Shamghar Software Solutions — Data Science Intern
-
+Shamghar Software Solutions — Data Science Intern
 Jan 2025 – Apr 2025
 
-Performed data cleaning, EDA, and preprocessing with Python & Pandas.
+EDA, preprocessing, and Power BI dashboard creation for real datasets.
 
-Built client-ready dashboards in Power BI.
+Worked with Python, Pandas, Scikit-learn & SQL basics.
 
-Explored ML basics for business problems.
+Naresh ResumeDS
 
-📂 Projects
-🔹 Sales Performance Dashboard (Power BI | SQL | DAX)
 
-Interactive dashboard showing revenue, profit, region & product insights.
+🔭 Projects (Highlights)
+Sales Performance Dashboard — Power BI, DAX, SQL
+Interactive dashboard for revenue, profit, region & product insights. 
+Naresh Resume DA
 
-Power Query ETL + Data Modeling + DAX measures.
 
-Trend analysis, top products, and customer segmentation.
+Netflix Power BI Dashboard — Power BI, Excel
+Insights on content, genres, and release patterns. 
+Naresh Resume DA
 
-🔹 Netflix Dashboard (Power BI, Excel)
 
-Visualized content categories, genres, and country-wise patterns.
+Air Quality Prediction — Python, Scikit-learn
+Regression-based AQI forecasting; end-to-end pipeline. 
+Naresh ResumeDS
 
-Implemented DAX measures and interactive storytelling visuals.
 
-🔹 Air Quality Prediction (Python | ML)
+Mutual Fund SIP Calculator — Python, NumPy, Pandas
+SIP-based projections + visualizations. 
+Naresh Resume DA
 
-Predicted AQI using regression models.
 
-Full pipeline: cleaning → feature engineering → training → evaluation.
+🏆 Certifications
+Data Analytics Training — Ducat.
 
-🔹 Mutual Fund SIP Calculator (Python)
+Power BI Job Simulation — PwC.
 
-SIP and compound interest-based return computation.
+Data Visualization Job Simulation — TATA.
 
-Visualized growth using Matplotlib & Seaborn.
+Python Certification — IIT Bombay.
 
-🏅 Certifications
+Data Science / ML Bootcamp — Krish Naik.
 
-Data Analytics Training — Ducat
-
-Data Visualization Job Simulation — Tata
-
-Power BI Job Simulation — PwC
-
-Python Certification — IIT Bombay
-
-Data Science / ML Bootcamp — Krish Naik
-
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nsrawat17&show_icons=true&theme=radical" height="160" alt="GitHub stats" /> <img src="https://streak-stats.demolab.com/?user=nsrawat17&theme=radical" height="160" alt="GitHub streak" /> <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nsrawat17&theme=monokai" height="200" alt="Profile summary" /> </div>
-📡 Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/naresh-singh-rawat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:nareshrawat1747@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a> </div>
-🌈 Final Thought
-
-Data isn't just numbers — it's stories waiting to be told.
-I'm on a mission to turn raw data into real impact, one dashboard and one model at a time. 🚀
-
-<div align="center"> <img src="https://media.giphy.com/media/giphy.gif" height="100" alt="confetti" /> <br> <sub><i>Crafted with ❤️ by Naresh Singh Rawat</i></sub> </div> <!-- end copy -->
+📊 GitHub Stats (Dark)
+<div align="center"> <!-- Stats: use dark themes where possible --> <img src="https://github-readme-stats.vercel.app/api?username=nsrawat17&show_icons=true&theme=dark" height="150" alt="GitHub stats" /> <img src="https://streak-stats.demolab.com?user=nsrawat17&theme=dark&hide_border=true" height="150" alt="GitHub streak" /> <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nsrawat17&theme=github_dark" height="180" alt="Profile summary" /> </div>
