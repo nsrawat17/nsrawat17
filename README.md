@@ -24,18 +24,13 @@
 
 ```mermaid
 flowchart TD
-  style Start fill:#0b1221,stroke:#111827,color:#9BE7FF
-  style DA fill:#0b1221,stroke:#111827,color:#9BE7FF
-  style SQL fill:#0b1221,stroke:#111827,color:#9BE7FF
-  style EDA fill:#0b1221,stroke:#111827,color:#9BE7FF
-  style BI fill:#0b1221,stroke:#111827,color:#9BE7FF
-  style ML fill:#0b1221,stroke:#111827,color:#9BE7FF
-  Start{{"Python Basics"}} --> DA["Data Analysis"]
-  DA --> SQL["SQL & Databases"]
-  SQL --> EDA["Exploratory Data Analysis"]
-  EDA --> BI["Power BI Dashboards"]
-  BI --> ML["ML Concepts & Pipelines"]
-  ML --> Projects["Real-World Projects"]
+    Start{{Python Basics}} --> DA[Data Analysis]
+    DA --> SQL[SQL & Databases]
+    SQL --> EDA[Exploratory Data Analysis]
+    EDA --> BI[Power BI Dashboards]
+    BI --> ML[ML Concepts]
+    ML --> Projects[Real-World Projects]
+
 Focus: Data cleaning, ETL, visual storytelling, and actionable dashboards.
 
 Tools I use daily: Python, Pandas, Power BI, Excel, SQL.
