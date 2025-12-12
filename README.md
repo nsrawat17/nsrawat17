@@ -1,5 +1,5 @@
 <!-- start copy --> <!-- 🚀 Modern Animated Header | Data Analyst & Data Science Enthusiast --> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00F5FF&vCenter=true&width=900&lines=Data+Analyst+%7C+Python+Developer;Power+BI+%7C+SQL+%7C+Excel;Aspiring+Data+Scientist;Welcome+to+My+Tech+Space!" alt="typing" /> </p> <h1 align="center">Hi, I'm Naresh Singh Rawat! 👋</h1> <p align="center" style="font-size:1.05em"> <b>📊 Data Analyst</b> &nbsp;|&nbsp; <b>🤖 Data Science Enthusiast</b> &nbsp;|&nbsp; <b>🐍 Python • Power BI • SQL</b> </p>
-🧬 My Tech Journey: Learning → Building → Delivering Insights
+```mermaid
 flowchart TD
     Start{{Python Basics}} --> DA[Data Analysis]
     DA --> SQL[SQL & Databases]
@@ -7,6 +7,7 @@ flowchart TD
     EDA --> BI[Power BI Dashboards]
     BI --> ML[Machine Learning Concepts]
     ML --> Projects[Real-World Projects]
+
 
 
 Data Analytics Focused: Cleaning, transforming, and analyzing data for business insights.
