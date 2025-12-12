@@ -18,17 +18,14 @@
 
 ---
 
-## 🖤 Dark Mode — My Tech Story
-
-> Learning → Building → Shipping Real-World Impact
 
 ### 🚀 My Learning Flow
 
-## 🖤 Dark Mode — My Tech Story
+## My Tech Story
 
 > Learning → Building → Shipping Real-World Impact
 
-### 🚀 My Learning Flow (stable, no Mermaid)
+### 🚀 My Learning Flow 
 - **Python Basics**  
   ↓
 - **Data Analysis**  
